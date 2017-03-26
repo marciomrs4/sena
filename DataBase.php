@@ -3,7 +3,7 @@ abstract class DataBase
 {
 
 	private $user = 'root';
-	private $password = 'q1w2e3mrs';
+	private $password = '';
 	private $tipobanco = 'mysql';
 	private $database = 'test';
 	private $server =  'localhost';
